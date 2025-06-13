@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Younas Khan</h1>
+<h1 align="center">Hi, I'm Younas Bhai</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Younas-Boss/Younas-Boss/main/banner.png.png" alt="Younas-Boss Banner" />
